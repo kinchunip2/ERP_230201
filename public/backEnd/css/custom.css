@@ -1,0 +1,112 @@
+.user-img-show-loan{
+    max-width: 250px;
+    height: auto;
+}
+.QA_section_modal .QA_table tbody th, .QA_section_modal .QA_table tbody td {
+    padding: 5px !important;
+}
+.pointer {
+    cursor: pointer;
+}
+.nowrap {
+    white-space: nowrap;
+}
+.table-modal {
+    width: 100%;
+}
+.table-modal td, .table th {
+    padding: .75rem;
+    vertical-align: top;
+    border-top: 0 !important;
+}
+
+.table-modal tbody td {
+    padding: .75rem!important;
+}
+.dataTables_scrollBody .scroll_datatable {
+    padding-top: 0 !important;
+    border-radius: 0 !important;
+}
+.dataTables_scrollHead .scroll_datatable {
+    border-radius: 5px 5px 0 0 !important;
+}
+.dataTables_scrollFoot .scroll_datatable{
+    border-radius:  0 0 5px 5px !important;
+    padding-top: 0 !important;
+}
+.dataTables_scrollBody .scroll_datatable2 {
+    padding-top: 0 !important;
+    border-radius: 0 !important;
+}
+.dataTables_scrollHead .scroll_datatable2 {
+    border-radius: 5px 5px 0 0 !important;
+}
+.dataTables_scrollFoot .scroll_datatable2{
+    border-radius:  0 0 5px 5px !important;
+    padding-top: 0 !important;
+}
+.QA_section .QA_table .dataTables_scroll tbody th, .QA_section .QA_table .dataTables_scroll tbody td {
+    white-space: nowrap;
+}
+
+.dataTables_scrollBody::-webkit-scrollbar {
+    height: 10px;
+}
+
+.dataTables_scrollBody::-webkit-scrollbar-track-piece  {
+    background-color: #C2D2E4 !important;
+}
+
+.dataTables_scrollBody::-webkit-scrollbar-thumb:vertical {
+    height: 30px;
+    background-color: #0A4C95 !important;
+}
+div#allData_processing {
+    padding-top: 45px !important;
+}
+
+.manage-table-height{
+    padding-bottom: 250px;
+    background-color: white;
+}
+
+.dataTables_scrollBody .scroll_datatable3 {
+    padding-top: 0 !important;
+    border-radius: 0 !important;
+}
+.dataTables_scrollHead .scroll_datatable3 {
+    border-radius: 5px 5px 0 0 !important;
+}
+.dataTables_scrollFoot .scroll_datatable3{
+    border-radius:  0 0 5px 5px !important;
+    padding-top: 0 !important;
+}
+table.dataTable tbody th, table.dataTable tbody td {
+    vertical-align: top !important;
+}
+
+@media (max-width: 575.98px) {
+    div.dt-buttons {
+        position: absolute;
+        top: -56px;
+        right: 0;
+        display: none;
+    }
+}
+
+.dataTables_filter > label {
+    top: -5px!important;
+}
+div.dt-buttons {
+    top: 2px!important;
+}
+.filter_date_input_field {
+    height: 40px!important;
+}
+.daterangepicker .drp-buttons .applyBtn{
+    background: -webkit-linear-gradient(90deg, #7c32ff 0%, #c738d8 51%, #7c32ff 100%);
+    border-color: transparent;
+}
+table.dataTable {
+     padding: 0 !important;
+}
